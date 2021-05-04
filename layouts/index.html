@@ -7,12 +7,12 @@
     <title>Document</title>
   </head>
   <body>
-    <h1>Nice. It's looking good already.</h1>
+    <h1>Marco's blog - read at your own peril</h1>
     <ul>
-      {{ range (where .Pages "Section" "blog") }}
+      {{ range (where $.Site.RegularPages "Section" "blog") }}
       <li>
         <a href="{{ .RelPermalink }}">
-          {{ .Title }}
+          {{ .Title }} - {{ .Date }}
         </a>
       </li>
       {{ end }}
