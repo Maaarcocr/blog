@@ -1,3 +1,8 @@
+---
+title: Come far un gran lavoro
+date: 2023-10-15T12:13:17Z
+description: Questo blog post è una traduzione di [How to do great work](http://www.paulgraham.com/greatwork.html) di Paul Graham. Se puoi leggere l'originale, fallo. È molto meglio. Questa traduzione è principalmente generata da ChatGPT. Se trovi errori, fammi sapere! L'ho principalmente tradotta perché penso sia un pezzo molto importante e voglio che sia accessibile a più persone (fra cui la mia famiglia).
+---
 # Come far un gran lavoro
 
 Questo blog post è una traduzione di [How to do great work](http://www.paulgraham.com/greatwork.html) di Paul Graham. Se puoi leggere l'originale, fallo. È molto meglio. Questa traduzione è principalmente generata da ChatGPT. Se trovi errori, fammi sapere! L'ho principalmente tradotta perché penso sia un pezzo molto importante e voglio che sia accessibile a più persone (fra cui la mia famiglia).
