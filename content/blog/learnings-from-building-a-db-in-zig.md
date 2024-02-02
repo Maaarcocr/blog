@@ -1,14 +1,14 @@
 ---
-title: "Learnings From Building a Db in Zig"
+title: "Learnings From Building a DB in Zig"
 date: 2024-02-02T20:12:06+01:00
 description: "I've built a database in zig and I've learnt a lot from it. This is a summary of what I've learnt."
 ---
 
-# What I’ve learnt by writing an incredibly simple db in zig
+# what I’ve learnt by writing an incredibly simple db in zig
 
 For the last 3 days at Shopify we had a hackathon and in the spirit of learning something new I’ve decided to build a database in zig. Why? I’ve been wanting to learn zig for a while. How but like why the **** a db? It felt like a complex enough project that I wouldn’t get bored and I would need to learn enough of the language to do it.
 
-## How did I start?
+## how did I start?
 
 I can’t thank Phil Eaton and his blog post here: https://notes.eatonphil.com/zigrocks-sql.html enough. It was both a source of inspiration and also a good source material to base my db on. I’ve ended up almost copying his build setup, but everything else is pretty much original.
 
