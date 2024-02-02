@@ -10,7 +10,7 @@ For the last 3 days at Shopify we had a hackathon and in the spirit of learning 
 
 ## how did I start?
 
-I can’t thank Phil Eaton and his blog post here: https://notes.eatonphil.com/zigrocks-sql.html enough. It was both a source of inspiration and also a good source material to base my db on. I’ve ended up almost copying his build setup, but everything else is pretty much original.
+I can’t thank Phil Eaton and his blog post here: https://notes.eatonphil.com/zigrocks-sql.html enough. It was both a source of inspiration and also a good source material to base my db on. I’ve ended up copying his build setup and rocksdb interface, but everything else is pretty much original.
 
 I’ve also taken quite a bit of inspiration from the first CockroachDB mapping schema (from sql to key value store semantics), which you can read about at: https://www.cockroachlabs.com/blog/sql-in-cockroachdb-mapping-table-data-to-key-value-storage/
 
